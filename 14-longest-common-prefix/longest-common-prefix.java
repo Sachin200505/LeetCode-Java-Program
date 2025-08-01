@@ -29,6 +29,7 @@ class Solution {
                 break; 
             }
         }
+        System.out.println(li);
         return fin; 
     }
 }
